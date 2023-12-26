@@ -1,8 +1,12 @@
-SummarEye
-==============================
+## SummarEye: Document Summarization with Self-Supervision
 
-A short description of the project.
+---
 
+### Overview:
+
+SummarEye is an innovative project that harnesses the power of self-supervision to generate abstractive summaries of text documents. This repository contains a robust solution for document summarization, allowing users to effortlessly distill the key information from lengthy texts.
+
+---
 Project Organization
 ------------
 
@@ -54,4 +58,42 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+### Features:
+
+- **Self-Supervised Learning:** Utilize cutting-edge self-supervision techniques for enhanced document summarization.
+  
+- **Abstractive Summaries:** Generate concise and meaningful abstractive summaries that capture the essence of the document.
+
+- **Flexibility:** Adapt the model to various document types, making it suitable for a wide range of applications.
+
+- **State-of-the-Art Model:** Implement a state-of-the-art neural network architecture for superior performance.
+
+---
+
+### Getting Started:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/smn06/SummarEye.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the demo script:
+
+    ```bash
+    python demo.py
+    ```
+---
+
+### License:
+
+This project is licensed under the [MIT License](LICENSE).
+
